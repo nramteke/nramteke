@@ -12,9 +12,7 @@
 
 Languages and Tools:
 
-iOS
-
-React Native 
+![iOS](icons8-ios-logo-48.png) ![React Native]() 
 
 Swift
 
