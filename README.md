@@ -38,5 +38,5 @@ Git
 
 GitHub
 
-Terminal
+![Terminal](terminal.png)
 
